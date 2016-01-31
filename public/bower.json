@@ -1,0 +1,24 @@
+{
+  "name": "album-test",
+  "homepage": "https://github.com/vj01/vjalbum",
+  "authors": [
+    "vishvajeet <vishvajeet@riktamtech.com>"
+  ],
+  "description": "js lib dep",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "~1.4.8",
+    "angular-couch-potato": "~0.2.3",
+    "angular-route": "~1.4.8",
+    "angular": "~1.4.8"
+  }
+}
